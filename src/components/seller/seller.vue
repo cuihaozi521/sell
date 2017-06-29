@@ -1,5 +1,7 @@
 <template>
-
+   <div>
+     aaaaasd
+   </div>
 </template>
 
 <script type="text/ecmascript-6">
