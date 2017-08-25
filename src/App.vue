@@ -8,7 +8,7 @@
         </router-link>
       </div>
       <div class="tab-item">
-        <router-link to="/ratings">商品</router-link>
+        <router-link to="/ratings">评论</router-link>
       </div>
       <div class="tab-item ">
         <router-link to="/seller">相关</router-link>
